@@ -7,15 +7,15 @@ Built in Node js, MongoDB which can be tested from postman and performs followin
 5.provide sending Email feature using sendGrid module.
 
 How to run this API :
-1. Prod version of API is running at https://minal-task-manager.herokuapp.com/
+1. Prod version of API is running at https://minal-task-manager.herokuapp.com/ <br />
 2. use following postman URLs to test the API :
-Create User POST :  https://minal-task-manager.herokuapp.com/users
-Login User POST : https://minal-task-manager.herokuapp.com/users/login
-Read Profile GET : https://minal-task-manager.herokuapp.com/users/me
-Logout User POST : https://minal-task-manager.herokuapp.com/users/logout
-Upload Profile Pic POST :https://minal-task-manager.herokuapp.com/users/me/avatar
-Delete Profile Pic DELETE :https://minal-task-manager.herokuapp.com/users/me/avatar
-Create Task POST : https://minal-task-manager.herokuapp.com/tasks
+Create User POST :  https://minal-task-manager.herokuapp.com/users <br />
+Login User POST : https://minal-task-manager.herokuapp.com/users/login <br />
+Read Profile GET : https://minal-task-manager.herokuapp.com/users/me <br />
+Logout User POST : https://minal-task-manager.herokuapp.com/users/logout <br />
+Upload Profile Pic POST :https://minal-task-manager.herokuapp.com/users/me/avatar <br />
+Delete Profile Pic DELETE :https://minal-task-manager.herokuapp.com/users/me/avatar <br />
+Create Task POST : https://minal-task-manager.herokuapp.com/tasks <br />
 
 3.Please look at the user schema and task schema to provide JSON body details while triggering post requests.
 
