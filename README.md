@@ -8,7 +8,7 @@ Built in Node js, MongoDB which can be tested from postman and performs followin
 
 How to run this API :
 1. Prod version of API is running at https://minal-task-manager.herokuapp.com/ <br />
-2. use following postman URLs to test the API :
+2. use following postman URLs to test the API : <br />
 Create User POST :  https://minal-task-manager.herokuapp.com/users <br />
 Login User POST : https://minal-task-manager.herokuapp.com/users/login <br />
 Read Profile GET : https://minal-task-manager.herokuapp.com/users/me <br />
