@@ -1,10 +1,10 @@
 # Task-Manager-API
-Built in Node js, MongoDB which can be tested from postman and performs following functionalities:
-1.Create user with details name, email address, password
-2.Stores tasks for the logged in user with its description and status
-3.Provide filtering ,pagination, sorting of tasks for the logged in user
-4.Allows user to upload profile picture for customize sizes using multer and sharp packages.
-5.provide sending Email feature using sendGrid module.
+Built in Node js, MongoDB which can be tested from postman and performs following functionalities: <br />
+1.Create user with details name, email address, password <br />
+2.Stores tasks for the logged in user with its description and status <br />
+3.Provide filtering ,pagination, sorting of tasks for the logged in user <br />
+4.Allows user to upload profile picture for customize sizes using multer and sharp packages. <br />
+5.provide sending Email feature using sendGrid module. <br />
 
 How to run this API :
 1. Prod version of API is running at https://minal-task-manager.herokuapp.com/ <br />
